@@ -1,0 +1,53 @@
+Cześć,
+Nazywam się Adrian Mularczyk i dziś opowiem wam o AzureUpSkill.
+
+Na początku roku trafiłem na ławkę i byłem zainteresowany nauką Azura. Były przygotowane jakieś zadania dla DevOps, ale ja chciałem się uczyć tego Azura bardziej pod kątem Developer'a, niż DevOps'a.
+
+Damian wpadł na pomysł, aby taką ścieżkę nauki dla osób, które chcą się nauczyć Azure jako Developer stworzyć. Wszyscy, którzy mieli wiedzę i umiejętności, aby taką ścieżkę przygotować niestety byli zajęci, więc zostałem mu ja.
+
+Plan był taki, aby przygotować proste zadania, które będą dotykać poszczególnych usług Azura.
+Aby nie zmieniać często kontekstu, podzieliliśmy usługi względem tego czego dotykają, a następnie wzieliśmy się za wymyślanie zadań.
+
+Te działy to:
+- Serverless, Data Driven, Komunikacja asynchroniczna, cache, active directory, ...
+<<Screen z działami, jak Serverless, Data Driven, etc.>>
+
+Następnie do każdego z działu staraliśmy się wymyślić zadanie i usługę, której można przy realizacji tego zadania użyć.
+<<Screen z działami i zadaniami>>
+
+Staraliśmy się też dodać czas, ile poszczególne zadanie może zająć czasu.
+
+Dodatkowo, aby to nie były tylko takie puste zadania i aby coś zostało po tym, jak się je zrobi, to wymyśliliśmy kontekst biznesowy i te wszystkie zadania, to stworzenie aplikacji webowej, a następnie jej rozbudowywanie o kolejne komponenty. Dzięki temu na koniec każdy kto zrobi wszystkie zadania powinien mieć stworzony system e-commersowy, którym będzie mógł się pochwalić.
+
+Nie samym developmentem developer żyje, więc dodaliśmy również zadanko, aby skonfigurować deployment aplikacji w Azure DevOps.
+
+Zadania zostały przygotowane tak, aby można było je robić jedno po drugim i aby kolejne, było rozszerzeniem poprzedniego, jednakże zadania są też na tyle ogólne, że można je również zrobić bez robienia poprzednich, ale wtedy będą wymagały trochę więcej pracy.
+
+W tych zadaniach jest napisane jakiej usługi z Azure należy użyć, aby je zrealizować. Jednakże stworzyliśmy też kilka dodatkowych zadań, które rozszerzają aplikację, jednak w nich już nie ma napisane czego należy użyć i tutaj od robiącego dane zadanie wymaga się, aby zapronował najlepszego jego zdaniem rozwiązanie i je zaimplementował.
+<<screen z dodatkowymi zadaniami>>
+
+Dodatkowo stworzyliśmy też kilka dodatkowych zadań, tzw. User Casów, gdzie mamy opisany przypadek biznesowy, jaki jest problem i wymaga się od robiącego zadanie zaproponowanie i/lub zaimplementowanie rozwiązania.
+<<screen z user storsami>>
+
+Opis jakiegoś user story?
+<<screen z jednym user story>>
+
+Łączny czas potrzebny na realizację zadań oszacowaliśmy na:
+- Azure developer - x h
+- Azure developer rozszerzenie - x h
+- Azure developer case study - x h
+Także sami widzicie, że trochę tego jest.
+
+Jeśli zastanawiacie się kiedy moglibyście te zadanka robić i się szkolić lub sprawdzać, to odpowiedź jest prosta: kiedy tylko chcecie! Możecie to robić:
+- przed pracą
+- po pracy
+- w nocy.
+Możliwości jest wiele, na pewno każdy znajdzie coś dla siebie :)
+Jeśli chcielibyście to robić w pracy, to jeśli traficie na ławkę pogadajcie o tym, ze swoimi TL'ami.
+>> Dodatkowo jeśli chętnych będzie wystarczająco dużo, to może uda się zrobić workshopy i robić te zadania wspólnie. <<
+
+Jeśli to co zrobiliśmy wam się spodoba, to tu jest lista osób, które pomagały przy stworzeniu tego UpSkill i możecie podziękować dowolnej z nich za jej wkład (Adrian, Damian J, Radek, Janek, Szymon, Piotr C).
+
+Wy również możecie mieć swój wkład w to, aby te zadania były jeszcze lepsze - przesyłajcie FeedBack do mnie (Adrian), do Radka lub do Damiana.
+
+I to by było na tyle.
