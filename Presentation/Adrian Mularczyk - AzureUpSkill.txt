@@ -1,11 +1,13 @@
 Cześć,
-Nazywam się Adrian Mularczyk i dziś opowiem wam o AzureUpSkill.
+Nazywam się Adrian Mularczyk i dziś opowiem wam o Azure UpSkill, a dokładniej o ścieżce Developera.
+
+To ja.
 
 Na początku roku trafiłem na ławkę i byłem zainteresowany nauką Azura. Były przygotowane jakieś zadania dla DevOps, ale ja chciałem się uczyć tego Azura bardziej pod kątem Developer'a, niż DevOps'a.
 
 Damian wpadł na pomysł, aby taką ścieżkę nauki dla osób, które chcą się nauczyć Azure jako Developer stworzyć. 
 
-Niestety wszyscy, którzy mieli wiedzę i umiejętności, aby taką ścieżkę przygotować byli zajęci, więc zostałem mu ja.
+Niestety gdy pytał osoby, które miały jakąkolwiek wiedzę i/lub umiejętności, aby taką ścieżkę przygotować, to wszyscy byli zapracowani i zajęci. Damian więc postawił na mnie.
 
 Plan był taki, aby przygotować proste zadania, które będą dotykać poszczególnych usług Azura.
 Aby łatwiej nam było pokryć jak najwięcej usług, podzieliliśmy je względem tego czego dotykają, a następnie wzieliśmy się za wymyślanie zadań.
@@ -13,8 +15,8 @@ Aby łatwiej nam było pokryć jak najwięcej usług, podzieliliśmy je względe
 Tak powstały sekcje:
 - Data Driven, Search, Komunikacja asynchroniczna, Serverless, Cache, Identity, Cognitive Srvices, Security i Monitoring.
 
-Następnie do każdego z sekcji staraliśmy się wymyślić kilka zadań i usługę, której można przy realizacji tego zadania użyć.
-Dodatkowo staraliśmy się też dodać czas, ile poszczególne zadanie może zająć czasu.
+Następnie do każdej z tych sekcji staraliśmy się wymyślić kilka zadań i usługę, której można przy realizacji tego zadania użyć.
+Dodatkowo staraliśmy się też dodać czas, ile poszczególne zadanie może zająć zakładając, że ma się jakąś wiedzę.
 
 Aby to nie były tylko takie puste zadania i aby coś zostało po tym, jak się je zrobi, to wymyśliliśmy kontekst biznesowy.
 Chcieliśmy, aby zadania się ze sobą łączyły i razem tworzyły większą całość.
@@ -25,7 +27,7 @@ Następnie ją rozbudowujemy o kolejne komponenty.
 
 Dzięki temu na koniec każdy kto zrobi wszystkie zadania powinien mieć stworzony system e-commersowy, którym będzie mógł się pochwalić.
 
-Nie samym developmentem developer żyje, więc dodaliśmy również zadanko, aby skonfigurować deployment aplikacji w Azure DevOps.
+Nie samym developmentem developer żyje, więc dodaliśmy również dodatkowe zadanko, aby skonfigurować deployment aplikacji w Azure DevOps.
 
 Jeśli chodzi o same zadania, to zostały przygotowane tak, aby można było je robić jedno po drugim i aby kolejne, było rozszerzeniem poprzedniego.
 Jednakże te zadania są też na tyle ogólne, że można wybrać tylko to, co nas interesuje i nie robić poprzednich, ale wtedy każde zadanie będzie wymagało trochę więcej pracy.
@@ -38,11 +40,26 @@ Przygotowane zadania zostały podzielone na 3 części:
 Zadania, które wcześniej widzieliście są dla części Azure Developer.
 W tych zadaniach jest napisane jakiej usługi z Azure należy użyć, aby je zrealizować.
 
-Jednakże stworzyliśmy też kilka dodatkowych zadań, które rozszerzają aplikację, jednak w nich już nie ma napisane czego należy użyć i tutaj od robiącego dane zadanie wymaga się, aby zapronował najlepszego jego zdaniem rozwiązanie i je zaimplementował.
+Tak wygląda przykładowe zadanie:
+- Ma tytuł,
+- jakiś background biznesowy,
+- technikalia,
+- treść co dokładnie należy zrobić,
+- a także oczekiwany rezultat.
+
+Stworzyliśmy też kilka dodatkowych zadań, które rozszerzają aplikację, jednak w nich już nie ma napisane czego dokładnie należy użyć i tutaj od robiącego dane zadanie wymaga się, aby zapronował najlepszego jego zdaniem rozwiązanie i je zaimplementował.
 Te zadania dotyczą póki co 6 obszarów biznsowych.
 
 Każdy z tych obszarów biznesowych ma kilka zadań.
 Tutaj również każde z zadań ma przybliżony czas ile może ono zająć.
+
+Tutaj przykładowe zadanie wygląda podobnie:
+- Mamy tytuł,
+- background,
+- wymagania,
+- kluczowe informacje,
+- no i co dokładnie należy zrobić.
+Nie ma tutaj technikaliów, bo jest dowolność. Jednak z drugiej strony jest trochę więcej informacji z punktu widzenia biznesu.
 
 Dodatkowo stworzyliśmy też kilka dodatkowych zadań, tzw. Case Study, gdzie mamy opisany przypadek biznesowy, jaki jest problem i wymaga się od robiącego zadanie zaproponowanie i/lub zaimplementowanie rozwiązania.
 
@@ -55,24 +72,27 @@ Mają jakiś background, kilka kluczowych informacji, kilka user story, a na ko�
 - Azure developer case study - 10+ dni
 Także sami widzicie, że trochę tego jest.
 
-Jeśli zastanawiacie się kiedy moglibyście te zadanka robić i się szkolić lub sprawdzać, to odpowiedź jest prosta: kiedy tylko chcecie! 
+Teraz możecie się zastanawiać, że wszystko super, ale kiedy znaleźć czas na robienie tych wszystkich zadań. Opcji jest kilka:
 
 Możecie to robić:
 - przed pracą
 - po pracy
 - w nocy.
-Możliwości jest wiele, na pewno każdy znajdzie coś dla siebie :)
+Możliwości jest wiele i na pewno każdy znajdzie coś dla siebie :)
 
-Jeśli chcielibyście to robić w pracy, to jeśli traficie na ławkę pogadajcie o tym, ze swoimi TL'ami.
+No dobra, dobra. A co jeśli ktoś chciałbym to robić jednak w pracy? Tak też się da. 
+
+Jeśli traficie na ławkę pogadajcie o tym, ze swoimi TL'ami, a oni pokierują was dalej.
 Dodatkowo jeśli chętnych będzie wystarczająco dużo, to może uda się zrobić workshopy i robić te zadania wspólnie.
 
-Jeśli to co zrobiliśmy wam się spodoba, to tu jest lista osób, które pomagały przy stworzeniu tego UpSkill i możecie podziękować dowolnej z nich za jej wkład.
+Jak sami widzicie przygotowaliśmy dość sporo. Jeśli to co zrobiliśmy wam się spodoba, to tu jest lista osób, które pomagały przy stworzeniu tego UpSkill...
 
+i możecie podziękować dowolnej z nich za jej wkład albo nawet wszystkim.
 Są to: Adrian, Damian, Janek, Piotrek, Radek i Szymon.
 Kolejność alfabetyczna.
 
-Wy również możecie mieć swój wkład w to, aby upskill dla azure developera rozwinął się jeszcze bardziej, a zadania były jeszcze lepsze.
+Wy również możecie mieć swój wkład w to, aby UpSkill dla azure developera rozwinął się jeszcze bardziej, a zadania były jeszcze lepsze. Możecie również pomyśleć nad przygotowaniem kolejnych UpSkilli z innych dziedzin.
 
 FeedBack i pomysły możecie przysyłać do mnie lub do Radka.
 
-I to by było na tyle.
+I to by było na tyle. Dziękuję.
