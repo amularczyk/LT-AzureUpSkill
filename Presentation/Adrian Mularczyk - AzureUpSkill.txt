@@ -7,7 +7,7 @@ Na początku roku trafiłem na ławkę i byłem zainteresowany nauką Azura. By�
 
 Damian wpadł na pomysł, aby taką ścieżkę nauki dla osób, które chcą się nauczyć Azure jako Developer stworzyć. 
 
-Niestety gdy pytał osoby, które miały jakąkolwiek wiedzę i/lub umiejętności, aby taką ścieżkę przygotować, to wszyscy byli zapracowani i zajęci. Damian więc postawił na mnie.
+Niestety gdy pytał osoby, które miały jakąkolwiek wiedzę i/lub umiejętności, aby taką ścieżkę przygotować, to wszyscy byli albo zapracowani albo zajęci. Damian więc postawił na mnie.
 
 Plan był taki, aby przygotować proste zadania, które będą dotykać poszczególnych usług Azura.
 
@@ -16,7 +16,7 @@ Tak powstały sekcje:
 - Data Driven, Search, Komunikacja asynchroniczna, Serverless, Cache, Identity, Cognitive Srvices, Security i Monitoring.
 
 Następnie do każdej z tych sekcji staraliśmy się wymyślić kilka zadań i usługę, której można przy realizacji tego zadania użyć.
-Dodatkowo staraliśmy się też dodać czas, ile poszczególne zadanie może zająć zakładając, że ma się jakąś wiedzę.
+Dodatkowo staraliśmy się też dodać czas, ile poszczególne zadanie może zająć zakładając, że ma się już jakąś wiedzę.
 Jak widzicie tych zadań trochę jest.
 
 Dodatkowo aby to nie były tylko takie puste zadania i aby coś zostało po tym, jak się je zrobi, to postanowiliśmy wymyśliliśmy jakiś kontekst biznesowy.
@@ -31,7 +31,7 @@ Dzięki temu na koniec każdy kto zrobi wszystkie zadania powinien mieć stworzo
 Nie samym developmentem developer żyje, więc dodaliśmy również dodatkowe zadanko, aby skonfigurować deployment aplikacji w Azure DevOps.
 
 Jeśli chodzi o same zadania, to zostały przygotowane tak, aby można było je robić jedno po drugim i aby kolejne, było rozszerzeniem poprzedniego.
-Jednakże te zadania są też na tyle ogólne, że można wybrać tylko to, co nas interesuje i nie robić poprzednich, ale wtedy każde zadanie będzie wymagało trochę więcej pracy.
+Jednakże te zadania są też na tyle ogólne, że można wybrać tylko te, które nas interesuje i nie robić poprzednich, ale wtedy każde zadanie będzie wymagało trochę więcej pracy.
 
 Przygotowane zadania zostały podzielone na 3 części:
 - Azure Developer,
@@ -39,7 +39,7 @@ Przygotowane zadania zostały podzielone na 3 części:
 - Case Study.
 
 Zadania, które wcześniej widzieliście są dla części Azure Developer.
-W tych zadaniach jest napisane jakiej usługi z Azure należy użyć, aby je zrealizować.
+W tych zadaniach jest napisane jakiej dokładnie usługi z Azure należy użyć, aby je zrealizować.
 
 Tak wygląda przykładowe zadanie:
 - Ma tytuł,
@@ -48,7 +48,7 @@ Tak wygląda przykładowe zadanie:
 - treść co dokładnie należy zrobić,
 - a także oczekiwany rezultat.
 
-Stworzyliśmy też kilka dodatkowych zadań, które rozszerzają aplikację, jednak w nich już nie ma napisane czego dokładnie należy użyć i tutaj od robiącego dane zadanie wymaga się, aby zapronował najlepszego jego zdaniem rozwiązanie i je zaimplementował.
+W Azure Developer pt.2 stworzyliśmy też kilka dodatkowych zadań, które rozszerzają aplikację, jednak w nich już nie ma napisane czego dokładnie należy użyć i tutaj od robiącego dane zadanie wymaga się, aby zapronował najlepszego jego zdaniem rozwiązanie i je zaimplementował.
 Te zadania dotyczą póki co 6 obszarów biznsowych.
 
 Każdy z tych obszarów biznesowych ma kilka zadań.
@@ -69,8 +69,8 @@ Mają jakiś background, kilka kluczowych informacji, kilka user story, a na ko�
 
 Łączny czas potrzebny na realizację zadań oszacowaliśmy na:
 - Azure developer - 10+ dni
-- Azure developer rozszerzenie - 30+ dni
-- Azure developer case study - 10+ dni
+- Azure developer pt.2 - 30+ dni
+- Case Study - 10+ dni
 Także sami widzicie, że trochę tego jest.
 
 Teraz możecie się zastanawiać, że wszystko super, ale kiedy znaleźć czas na robienie tych wszystkich zadań. Opcji jest kilka:
@@ -83,17 +83,16 @@ Możliwości jest wiele i na pewno każdy znajdzie coś dla siebie :)
 
 No dobra, dobra. A co jeśli ktoś chciałbym to robić jednak w pracy? Tak też się da. 
 
-Jeśli traficie na ławkę pogadajcie o tym, ze swoimi TL'ami, a oni pokierują was dalej.
+Jeśli traficie na ławkę porozmawiajcie o tym, ze swoimi TL'ami, a oni pokierują was dalej.
 Dodatkowo jeśli chętnych będzie wystarczająco dużo, to może uda się zrobić workshopy i robić te zadania wspólnie.
 
-Jak sami widzicie przygotowaliśmy dość sporo. Jeśli to co zrobiliśmy wam się spodoba, to tu jest lista osób, które pomagały przy stworzeniu tego UpSkill...
+Jak sami widzicie przygotowaliśmy dość sporo. Nie zrobiłem tego wszystkiego sam. Lista osób, którym należą się podziękowania to:
 
-i możecie podziękować dowolnej z nich za jej wkład albo nawet wszystkim.
-Są to: Adrian, Damian, Janek, Piotrek, Radek i Szymon.
+Adrian, Damian, Janek, Piotrek, Radek i Szymon.
 Kolejność alfabetyczna.
-Każdej z tych osób możecie podziękować za jej wkład.
+Jeśli spodoba wam się to co przygotowaliśmy, to możecie podziękować za jej wkład dowolnej z tych osób, albo wszystkim.
 
-Wy również możecie mieć swój wkład w to, aby UpSkill dla azure developera rozwinął się jeszcze bardziej, a zadania były jeszcze lepsze. Możecie również pomyśleć nad przygotowaniem kolejnych UpSkilli z innych dziedzin.
+Wy również możecie mieć swój wkład w to, aby UpSkill dla Azure Developera rozwinął się jeszcze bardziej, a zadania były jeszcze lepsze. Możecie również pomyśleć nad przygotowaniem kolejnych UpSkilli z innych dziedzin.
 
 FeedBack i pomysły możecie przysyłać do mnie lub do Radka.
 
